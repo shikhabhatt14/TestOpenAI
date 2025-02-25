@@ -1,1 +1,1 @@
-# super-duper-journey
+# test Open AI
